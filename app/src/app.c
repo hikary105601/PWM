@@ -15,7 +15,7 @@
 #define TEST_1 (1)
 #define TEST_2 (2)
 
-#define TEST_NUMBER TEST_1 //TEST_1, TEST_2
+#define TEST_NUMBER TEST_2 // TEST_2
 
 #define DELAY_TICKS (4)
 #define STEP (100)

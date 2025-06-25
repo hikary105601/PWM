@@ -1,0 +1,4 @@
+Se observó que el periodo total es de 1 ms, que se mantiene constante.
+El duty cicle se define como la relación entre el tiempo de la señal en alto y el periodo, expresado como porcentaje.
+En el osciloscopio se pudo observar cómo variaba el duty cicle de la señal de onda cuadrada, de forma lineal creciente y decreciente. 
+Para verificar el duty cicle, se conectó un LED y se observó como varió su luminosidad. 

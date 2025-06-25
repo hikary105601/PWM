@@ -1,0 +1,6 @@
+El periodo de la señal varía, junto al tiempo activo. 
+El duty cicle se mantiene constante, ya que el periodo y el tiempo activo aumentan de forma proporcionada.
+El LED se mantiene con un brillo constante.
+
+En comparación al test_1, en el primero se varía el duty cicle y en el segundo se varía el periodo total.
+En el test_1, el led varía en luminosidad, mientras que ene el test_2, se mantiene constante.
